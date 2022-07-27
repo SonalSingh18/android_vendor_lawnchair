@@ -18,6 +18,7 @@ android_app_import {
 	enabled: false,
     },
     system_ext_specific: true,
+    overrides: ["PixelThemedIconsOverlay", "PixelLauncherCustomOverlay"],
 }
 
 android_app_import {
