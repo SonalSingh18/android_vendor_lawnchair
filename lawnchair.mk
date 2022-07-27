@@ -10,3 +10,6 @@ PRODUCT_PACKAGES += \
     LawnchairOverlay \
     Lawnicons \
     Lawnfeed
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/lawnchair
